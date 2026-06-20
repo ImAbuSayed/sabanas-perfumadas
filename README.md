@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-perfumadas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sábanas perfumadas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-perfumadas/) |
+| **Get License** | [Music Rights & Licensing for Sábanas perfumadas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-perfumadas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `652cee691989c8d67191ac8a1ad42aac4dca2f0a29d5ab5d3c4cdcbd92cfb5a7` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

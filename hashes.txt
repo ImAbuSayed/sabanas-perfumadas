@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas perfumadas
+
+This log tracks the cryptographic history and versioning for the song **Sábanas perfumadas** (sabanas-perfumadas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T02:45:22.131756 | `v1` | `652cee691989c8d67191ac8a1ad42aac4dca2f0a29d5ab5d3c4cdcbd92cfb5a7` | `88e33232390966a14b25de6f086295febbdbb8efd0e707d4e5f243754a885bfd` | `2026-06-21_sabanas-perfumadas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
